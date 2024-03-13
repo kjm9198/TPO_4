@@ -20,8 +20,8 @@ Compile the Java files and ensure all class files are in the same directory.
 Start the ChatServer by running ChatServer.class with Java.
 Launch multiple instances of ChatClient by running ChatClient.class with different parameters to simulate multiple users.
 Interact with the chat application through the console.
-Features
 
+Features
 Asynchronous server that can handle multiple client connections simultaneously.
 Clients can log in, send messages, and log out.
 Server logs all activities, including logins, logouts, and messages.
