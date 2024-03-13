@@ -1,6 +1,6 @@
 This project was made on 25th of April 2023
 
-** Chat Application Project **
+Chat Application Project
 
 This Java project is a chat application that demonstrates the use of non-blocking I/O and concurrency to create a client-server architecture where multiple clients can connect, send messages, and log out. It provides practical experience with advanced Java features, including NIO channels, selectors, and multi-threading.
 
